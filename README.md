@@ -1,5 +1,6 @@
 Topic: SOLID Principles
 Author: Calugher Ion
+
 SOLID este un set de cinci principii de proiectare orientate pe obiecte menite să facă proiectele de software mai ușor de întreținut, mai flexibile și mai ușor de înțeles. Acronimul reprezintă principiul responsabilității unice, principiul deschis-închis, principiul substituției Liskov, principiul segregației interfeței și principiul inversării dependenței. Fiecare principiu abordează un aspect specific al proiectării software, cum ar fi organizarea responsabilităților, gestionarea dependențelor și proiectarea interfețelor. Urmând aceste principii, dezvoltatorii de software pot crea cod mai modular, testabil și reutilizabil, care este mai ușor de modificat și extins în timp. Aceste principii sunt acceptate și adoptate pe scară largă în comunitatea de dezvoltare software și pot fi aplicate oricărui limbaj de programare orientat pe obiecte.
 
 Pentru a respecta principiile SOLID într-un proiect, trebuie să urmăm următoarele principii de bază:
