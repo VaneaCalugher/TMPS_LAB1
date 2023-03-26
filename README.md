@@ -147,6 +147,7 @@ for message in room1.get_messages():
 
 Acest cod va itera prin lista de mesaje din camera de chat 1 și va afișa fiecare mesaj, împreună cu numele expeditorului, textul mesajului și marcajul de timp al mesajului.
 
+Concluzie:
 
 Acest cod creează trei utilizatori și două camere de chat, adaugă utilizatorii în camerele de chat și camerele de chat la serviciul de chat. Apoi, trimite un mesaj de la utilizatorul 1 către utilizatorul 2 și afișează mesajele din camera de chat 1.
 
